@@ -11,3 +11,5 @@ except:
 finally:
     print time.ctime()
 #测试何如dev分支
+import unittest
+unittest.makeSuite
